@@ -7,3 +7,5 @@ for i in range(3):
 print(sum)
 
 print("remote")
+
+print("fetch")
