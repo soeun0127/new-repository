@@ -5,3 +5,5 @@ for i in range(3):
     sum += i
 
 print(sum)
+
+print("remote")
