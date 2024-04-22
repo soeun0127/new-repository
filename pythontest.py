@@ -9,3 +9,6 @@ print(sum)
 print("remote")
 
 print("fetch")
+
+print("push")
+
