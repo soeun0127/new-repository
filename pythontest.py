@@ -9,3 +9,7 @@ print(sum)
 print("remote")
 
 print("pull")
+
+print("pull test")
+
+print("origin master")
