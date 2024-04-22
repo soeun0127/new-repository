@@ -5,11 +5,3 @@ for i in range(3):
     sum += i
 
 print(sum)
-
-print("remote")
-
-print("pull")
-
-print("pull test")
-
-print("origin master")
